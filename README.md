@@ -1,4 +1,4 @@
-Header Картинка
+[![Header](https://github.com/RuB1k9/Rustam-Biktimirov/blob/main/assets/1.png)](https://t.me/RuBik8909)
 
 About me О себе
 
