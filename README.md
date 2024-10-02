@@ -4,6 +4,7 @@ About me О себе
 
 Что изучаю
 
-Языки интрументы languages and tools
+### Языки интрументы languages and tools
+![Flutter](https://img.shields.io/badge/Telegram-blue)
 
 ссылки на соцети Follow Me
